@@ -1,4 +1,4 @@
-require("Class")
+require("Dependencies.Class")
 
 List = Class:create("List",{
     __values = {}
